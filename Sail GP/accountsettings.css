@@ -1213,27 +1213,27 @@ body {
 }
 
 #reward-history-v2 {
-  color: #fff;
+  color: #000;
   background-color: #5f5f5f;
   padding: 20px;
   border-radius: 20px;
 }
 
 #account-settings {
-  color: #fff !important;
+  color: #000 !important;
   background-color: #5f5f5f;
   padding: 20px;
   border-radius: 20px;
 }
 
 #account-settings .primary-settings button.edit {
-  color: #fff !important;
+  color: #000 !important;
   background-color: #c31010 !important;
   box-shadow: none;
 }
 
 #account-settings .secondary-settings button.edit {
-  color: #fff !important;
+  color: #000 !important;
   background-color: #c31010 !important;
   box-shadow: none;
   left: 175px !important;
