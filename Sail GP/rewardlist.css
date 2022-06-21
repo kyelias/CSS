@@ -6,12 +6,12 @@
   --color-shade-500: #97999A;
   --color-shade-700: #5b5b5c;
   --color-shade-900: #2D2D2E;
-  --custom-se-color-activefiller: #00f6fa;
-  --custom-se-color-activeborder: #5A62A8;
-  --custom-se-color-passiveborder: #55A3D9;
-  --custom-se-color-CTA: #5A62A8;
-  --custom-se-color-activefont: #5A62A8;
-  --custom-se-color-passivefont: #55A3D9;
+  --custom-se-color-activefiller: #EC1a31;
+  --custom-se-color-activeborder: #000;
+  --custom-se-color-passiveborder: #fff;
+  --custom-se-color-CTA: #eC1A31;
+  --custom-se-color-activefont: #fff;
+  --custom-se-color-passivefont: #fff;
   --color-orange-200: #FFEDD4;
   --color-orange-500: #eb9f42;
   --color-orange-700: #c07825;
