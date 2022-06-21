@@ -775,7 +775,7 @@ body {
 }
 
 #reward-list-v2 .rewards .reward.reward-not-enough-points .content .row p.points.ct-points-color, #reward-list-v2 .rewards .reward.reward-not-enough-points:nth-child(n) .content .row p.points.ct-points-color, #reward-list-v2 .rewards .reward:nth-child(n).reward-not-enough-points .content .row p.points.ct-points-color, #reward-list-v2 .rewards .reward:nth-child(n).reward-not-enough-points:nth-child(n) .content .row p.points.ct-points-color {
-    background-color: #c31010 !important;
+    background-color: #EC1A31 !important;
 }
 
 #reward-list-v2 .rewards .reward .content:hover .row p.points.ct-points-color, #reward-list-v2 .rewards .reward .content:focus .row p.points.ct-points-color, #reward-list-v2 .rewards .reward .content:focus-within .row p.points.ct-points-color, #reward-list-v2 .rewards .reward:nth-child(n) .content:hover .row p.points.ct-points-color, #reward-list-v2 .rewards .reward:nth-child(n) .content:focus .row p.points.ct-points-color, #reward-list-v2 .rewards .reward:nth-child(n) .content:focus-within .row p.points.ct-points-color {
