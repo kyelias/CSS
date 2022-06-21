@@ -1158,7 +1158,7 @@ body {
 
 #activity-history-v2 {
   color: #fff;
-  background-color: #e3e3e3;
+  background-color: #fff;
   padding: 20px;
   border-radius: 20px;
 }
@@ -1214,14 +1214,14 @@ body {
 
 #reward-history-v2 {
   color: #000;
-  background-color: #e3e3e3;
+  background-color: #fff;
   padding: 20px;
   border-radius: 20px;
 }
 
 #account-settings {
   color: #000 !important;
-  background-color: #e3e3e3;
+  background-color: #fff;
   padding: 20px;
   border-radius: 20px;
 }
