@@ -827,11 +827,11 @@ body {
 }
 
 #activity-history-v2 table td.points, #activity-history-v2 .activity-history td.points, #activity-history-v2 .redemption-history td.points, #activity-history-v2 .purchase-history-table td.points, #reward-history-v2 table td.points, #reward-history-v2 .activity-history td.points, #reward-history-v2 .redemption-history td.points, #reward-history-v2 .purchase-history-table td.points, #purchase-history-v2 table td.points, #purchase-history-v2 .activity-history td.points, #purchase-history-v2 .redemption-history td.points, #purchase-history-v2 .purchase-history-table td.points {
-    color: #c31010 !important;
+    color: #EC1A31 !important;
 }
 
 #activity-history-v2 .ct-points-color {
-    color: #c31010 !important;
+    color: #EC1A31 !important;
 }
 
 #reward-history-v2 {
@@ -850,13 +850,13 @@ body {
 
 #account-settings .primary-settings button.edit {
     color: #fff !important;
-    background-color: #c31010 !important;
+    background-color: #EC1A31 !important;
     box-shadow: none;
 }
 
 #account-settings .secondary-settings button.edit {
     color: #fff !important;
-    background-color: #c31010 !important;
+    background-color: #EC1A31 !important;
     box-shadow: none;
     left: 175px !important;
     bottom: 37px;
